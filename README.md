@@ -1,4 +1,4 @@
-# modulo-V
+clea# modulo-V
 comandos modulo V
 *en el siguiente archivo hare los comandos del modulo V, para esto en los 2 servidores preferiblemente o asi lo hice en mi caso
 colocarles una llave ssh
